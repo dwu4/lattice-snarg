@@ -24,7 +24,6 @@
 #ifndef LWE_PARAM_HPP_
 #define LWE_PARAM_HPP_
 
-#include <fftw3.h>
 #include <math.h>
 #include <stdint.h>
 #include <NTL/ZZ.h>
